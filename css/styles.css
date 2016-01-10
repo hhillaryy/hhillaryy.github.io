@@ -1,0 +1,8 @@
+p {
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.gradient {
+  background: linear-gradient(#7300e6, #f2f2f2);
+}
