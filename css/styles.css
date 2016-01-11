@@ -4,5 +4,9 @@ p {
 }
 
 .gradient {
-  background: linear-gradient(#7300e6, #f2f2f2);
+  background: linear-gradient(#29a329, #f2f2f2);
+}
+
+a {
+  font-weight: bolder;
 }
