@@ -10,5 +10,12 @@ img {
   width: 320px;
   height: 212.6667px;
   border-radius: 50%;
+}
 
+.border {
+  border-style: solid;
+  border-color: #7300e6;
+  margin-top: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
 }
